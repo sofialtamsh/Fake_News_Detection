@@ -159,11 +159,11 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 5.  If we choose to install python (and already setup PATH variable for ```python.exe```) then follow instructions:
     - Open the command prompt and change the directory to project folder as mentioned in above by running below command
     ```
-    cd C:/our cloned project folder path goes here/
+    cd C:/our cloned project folder path/
     ```
     - run below command
     ```
-    python.exe C:/our cloned project folder path goes here/
+    python.exe C:/our cloned project folder path/
     ```
     - After hitting the enter, program will ask for an input which will be a piece of information or a news headline that I 	    	   want to verify. Once I paste or type news headline, then press enter.
 

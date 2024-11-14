@@ -169,3 +169,20 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 
     - Once I hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
 
+## Pros
+
+- **Accurate Classification:** Utilizes NLP techniques and machine learning algorithms for effective fake news detection.
+- **Scalable:** The system can be easily expanded to handle larger datasets or additional features.
+- **Automated Process:** Automates the detection of fake news, saving time and reducing human intervention.
+- **Open-Source Libraries:** Leverages Scikit-learn and other open-source libraries, making it easy to implement and extend.
+- **Customizable:** Allows customization of models, preprocessing steps, and features for different use cases.
+- **Versatile:** Can be applied to various types of text data, including articles, social media posts, etc.
+
+## Cons
+
+- **Data Dependency:** Model performance heavily relies on the quality and size of the training data.
+- **Overfitting Risk:** Without proper tuning, models may overfit to training data, leading to poor generalization on unseen data.
+- **Bias in Training Data:** The model might inherit biases from the training data, potentially leading to incorrect classifications.
+- **Feature Engineering:** Requires careful feature extraction and selection, which can be time-consuming and complex.
+- **Limited to Textual Data:** The system works only with textual data and does not account for other forms of misinformation (e.g., images, videos).
+- **Model Interpretability:** Some machine learning models, like deep learning models, can be difficult to interpret, making it harder to understand why certain news is classified as fake or real.

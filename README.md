@@ -7,7 +7,7 @@ In this project, I have applied a range of natural language processing technique
 ## Getting Started
 
 These instructions will get a copy of the project up and running on the local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+ 
 ### Prerequisites
 
 What things we need to install the software and how to install them:

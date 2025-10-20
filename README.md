@@ -1,7 +1,7 @@
 # Fake News Detection 
  
 Fake News Detection in Python
-
+ 
 In this project, I have applied a range of natural language processing techniques and machine learning algorithms to classify fake news articles. The project utilizes Python’s Scikit-learn library, which provides a robust framework for implementing and optimizing machine learning models. Through preprocessing, feature extraction, and model training, I have developed an efficient system for identifying and categorizing news content, enabling automated detection of misinformation.
  
 ## Getting Started
